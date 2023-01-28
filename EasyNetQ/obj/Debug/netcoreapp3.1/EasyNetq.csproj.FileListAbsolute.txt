@@ -1,0 +1,14 @@
+C:\Users\raj.kumar\Desktop\MS\Microservices\EasyNetQ\bin\Debug\netcoreapp3.1\EasyNetq.exe
+C:\Users\raj.kumar\Desktop\MS\Microservices\EasyNetQ\bin\Debug\netcoreapp3.1\EasyNetq.deps.json
+C:\Users\raj.kumar\Desktop\MS\Microservices\EasyNetQ\bin\Debug\netcoreapp3.1\EasyNetq.runtimeconfig.json
+C:\Users\raj.kumar\Desktop\MS\Microservices\EasyNetQ\bin\Debug\netcoreapp3.1\EasyNetq.runtimeconfig.dev.json
+C:\Users\raj.kumar\Desktop\MS\Microservices\EasyNetQ\bin\Debug\netcoreapp3.1\EasyNetq.dll
+C:\Users\raj.kumar\Desktop\MS\Microservices\EasyNetQ\bin\Debug\netcoreapp3.1\EasyNetq.pdb
+C:\Users\raj.kumar\Desktop\MS\Microservices\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetq.csproj.AssemblyReference.cache
+C:\Users\raj.kumar\Desktop\MS\Microservices\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\MS\Microservices\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetq.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\MS\Microservices\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetq.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\MS\Microservices\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetq.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\MS\Microservices\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetq.dll
+C:\Users\raj.kumar\Desktop\MS\Microservices\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetq.pdb
+C:\Users\raj.kumar\Desktop\MS\Microservices\EasyNetQ\obj\Debug\netcoreapp3.1\EasyNetq.genruntimeconfig.cache

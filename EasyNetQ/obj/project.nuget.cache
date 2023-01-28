@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zY8l/FrnJe632Nu2er+0cRl8yYBdjOCEjXKrWj795a4zQFGrA8B99YyCoegBY+O/1r7fW5fyRB+AtiyrQyF+XQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raj.kumar\\Desktop\\MS\\Microservices\\EasyNetQ\\EasyNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\easynetq\\3.8.0\\easynetq.3.8.0.nupkg.sha512",
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\rabbitmq.client\\5.2.0\\rabbitmq.client.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
